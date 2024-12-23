@@ -21,9 +21,7 @@ Hi! I'm Sarthak Pradhan, a passionate aspiring software developer with a strong 
 - **Email**: [sarthakpradhan.dev@gmail.com](mailto:sarthakpradhan.dev@gmail.com)
 - **LinkedIn**: [Sarthak Pradhan](https://www.linkedin.com/in/sarthak-pradhan-a2abab275/)
 
-[![Sarthaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakp107)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**sarthakp107/sarthakp107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.
 
 Here are some ideas to get you started:
 
