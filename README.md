@@ -1,4 +1,4 @@
-## 💻Sarthak Pradhan - Aspiring Software Engineer
+## 💻Sarthak Pradhan 
 
 Hi! I'm Sarthak Pradhan, a passionate aspiring software developer with a strong foundation in computer science, specializing in full-stack development. I am eager to leverage my skills to create innovative solutions and contribute to impactful projects that drive technological advancement.
 
