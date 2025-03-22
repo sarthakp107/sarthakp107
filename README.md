@@ -1,5 +1,7 @@
 ## 💻Sarthak Pradhan 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakp107)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi! I'm Sarthak Pradhan, a passionate aspiring software developer with a strong foundation in computer science, specializing in full-stack development. I am eager to leverage my skills to create innovative solutions and contribute to impactful projects that drive technological advancement.
 
 ## 🚀 About Me
