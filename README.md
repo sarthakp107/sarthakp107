@@ -5,7 +5,6 @@ Hi! I'm Sarthak Pradhan, a passionate aspiring software developer with a strong 
 ## 🚀 About Me
 - 🎓 **Education**: Computer Science, Swinburne University Of Technology
 - 🌱 **Learning**: Currently exploring React.js/Express.js and expanding my knowledge in Web Development.
-- 🎯 **Goal**: Seeking an internship in software development.
 
 ## 🔧 Technologies & Tools
 
